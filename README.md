@@ -1,2 +1,2 @@
 # Hackerrank
-Code form Hackerrank problems
+Code from Hackerrank SQL problems
